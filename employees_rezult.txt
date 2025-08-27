@@ -1,0 +1,8 @@
+EMAIL NAME LAST_NAME TEL CITY
+Ivanov.I@company.io Ivan Ivanov 1022354 Moscow
+Petrova.E@company.io Elena Petrova 1042356 Irkutsk
+Ivanov.Iv@company.io Ivan Ivanov 1052347 Kaliningrad
+Lebedeva.O@company.io Olga Lebedeva 4587359 Omsk
+Pavlov.D@company.io Daniil Pavlov 9272362 Moscow
+Soboleva.A@company.io Arina Soboleva 9423345 Irkutsk
+Mazur.A@company.io Alexander Mazur 1025892 Irkutsk

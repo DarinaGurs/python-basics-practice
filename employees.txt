@@ -1,0 +1,9 @@
+EMAIL NAME LAST_NAME TEL CITY
+ Ivan Ivanov 1022354 Moscow
+ Elena Petrova 1042356 Irkutsk
+ Ivan Ivanov 1052347 Kaliningrad
+ Olga Lebedeva 4587359 Omsk
+ Daniil Pavlov 9272362 Moscow
+ Arina Soboleva 9423345 Irkutsk
+ Alexander Mazur 1025892 Irkutsk
+
